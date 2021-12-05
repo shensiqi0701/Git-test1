@@ -12,5 +12,6 @@ public class СІПл {
         System.out.println("hello");
         solution.myPow(2,7);
         System.out.println("hello hot-fix");
+        System.out.println("push test");
     }
 }
