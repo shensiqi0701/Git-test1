@@ -8,6 +8,8 @@ public class СІПл {
         Solution solution2=new Solution();
         System.out.println("hello");
         System.out.println("hello2");
+        System.out.println("hello");
         solution.myPow(2,7);
+        System.out.println("hello hot-fix");
     }
 }
