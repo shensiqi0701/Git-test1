@@ -5,8 +5,8 @@
 public class СІПл {
     public static void main(String[] args) {
         Solution solution=new Solution();
-        Solution solution2=new Solution();
-        System.out.println("Hello,hot-fix");
+        System.out.println("hello");
         solution.myPow(2,7);
+        System.out.println("hello hot-fix");
     }
 }
