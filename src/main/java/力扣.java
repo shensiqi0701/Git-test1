@@ -7,6 +7,7 @@ public class СІПл {
         Solution solution=new Solution();
         Solution solution2=new Solution();
         System.out.println("hello");
+        System.out.println("hello2");
         solution.myPow(2,7);
     }
 }
